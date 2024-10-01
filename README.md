@@ -6,7 +6,7 @@
 - 200+ Problems Solved on @Codeforces.
 - DSA with Java.
 - Full-Stack Web Developer.
-- B.Tech(IT)'26, RD Engineering College, Ghaziabad.
+- B.Tech(IT)'26, 3rd Year Student || RD Engineering College, Ghaziabad.
 
 - 👀 I’m interested in full-stack development, artificial intelligence, and competitive programming.
 - 🌱 I’m currently learning advanced JavaScript frameworks and exploring back-end technologies.
