@@ -1,7 +1,7 @@
 # 👋 Hi, I’m VAISHALI THAKUR.
 
 - CodeKaze 2024 Participant (Global Rank: 8063/140,000).
-- Ex-Intern at CodeAlpha(FRONTEND DEVELOPER POSITION).
+- Ex-Intern at @CodeAlpha (FRONTEND DEVELOPER POSITION).
 - 5-Star Coder on @HackerRank..(cetified with pyhton and css)
 - 200+ Problems Solved on @Codeforces.
 - DSA with Java.
