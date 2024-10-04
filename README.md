@@ -1,7 +1,7 @@
 # 👋 Hi, I’m VAISHALI THAKUR.
 
 - B.Tech(IT)'26, 3rd Year Student || RD Engineering College, Ghaziabad.
-- @Microsoft Learn Student Ambassador (MLSA) who has earned 101 badges and 30 trophies...📫 https://learn.microsoft.com/en-us/users/vaishalithakur-7381/
+- @Microsoft Learn Student Ambassador (MLSA) who has earned 105 badges and 30 trophies...📫 https://learn.microsoft.com/en-us/users/vaishalithakur-7381/
 - CodeKaze 2024 Participant (Global Rank: 8063/140,000).
 - Ex-Intern at @CodeAlpha (FRONTEND DEVELOPER POSITION).
 - 5-Star Coder on @HackerRank..(certified with pyhton and css)
