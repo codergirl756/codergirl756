@@ -1,6 +1,6 @@
 # 👋 Hi, I’m VAISHALI THAKUR.
 
-- B.Tech(IT)'26, 3rd Year Student || RD Engineering College, Ghaziabad.
+- B.Tech(IT)'26, 4th Year Student || RD Engineering College, Ghaziabad.
 - @Microsoft Learn Student (MLSA) who has earned 105 badges and 30 trophies on completing various reflective modules..📫 https://learn.microsoft.com/en-us/users/vaishalithakur-7381/
 - CodeKaze 2024 Participant (Global Rank: 8063/140,000).
 - Current-Intern at @Ceeras IT Services (FRONTEND DEVELOPER POSITION).
